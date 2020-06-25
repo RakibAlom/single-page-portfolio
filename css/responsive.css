@@ -1,0 +1,272 @@
+@media (max-width: 1200px){
+	.header{
+		padding: 2rem 6rem;
+	}
+	/* about-area */
+	.about-area{
+		padding: 4rem 6rem 0rem;
+	}
+
+	/* work-place area */
+	.work-place{
+		padding: 3rem 6rem;
+		background: #f6f6f6;
+	}
+	.work-place .card{
+		padding: 2rem 0;
+	}
+	.work-place .card h4{
+		font: normal 600 20px/26px var(--raleway);
+		text-transform: uppercase;
+		padding-bottom: 1rem;
+	}
+
+	/* bio-data */
+	.bio-data{
+		padding: 4rem 6rem;
+	}
+
+	/* portfoilio area */
+	.portfolio-area{
+		padding: 4rem 6rem;
+	}
+	.portfolio-area .portfolio-image img{
+		width: 100%;
+		height: 200px;
+	}
+	
+	/* testimonial-area */
+	.testimonial-area{
+		padding: 6rem;
+	}
+
+	/* footer-area */
+	.footer-area .footer-top{
+		padding: 4rem 6rem;
+	}
+
+}
+
+@media (max-width: 1050px){
+	.header{
+		padding: 2rem;
+	}
+	/* about-area */
+	.about-area{
+		padding: 2rem 2rem 0rem;
+	}
+
+	/* work-place area */
+	.work-place{
+		padding: 2rem 2rem;
+		background: #f6f6f6;
+	}
+
+	.about-area .about-content p{
+		font-size: 15px;
+		padding-top: .8rem;
+	}
+	.work-place .card{
+		padding: 2rem 0;
+	}
+	.work-place .card h4{
+		font: normal 600 18px/24px var(--raleway);
+		text-transform: uppercase;
+		padding-bottom: .8rem;
+	}
+
+	/* bio-data */
+	.bio-data{
+		padding:3rem 2rem;
+	}
+
+	/* portfoilio area */
+	.portfolio-area{
+		padding:2rem;
+	}
+	.portfolio-area .portfolio-image img{
+		width: 100%;
+		height: 200px;
+	}
+	
+	/* testimonial-area */
+	.testimonial-area{
+		padding: 2rem;
+	}
+
+	/* footer-area */
+	.footer-area .footer-top{
+		padding: 2rem 2rem;
+	}
+
+}
+@media (max-width: 920px){
+	.title{
+		font: normal 700 40px/42px var(--raleway);
+		padding: 1.5rem;
+	}
+	.default-box{
+		padding: 2rem 1.5rem;
+	}
+	.box-title{
+		font: normal 600 24px/25px var(--raleway);
+		padding-bottom: 1rem;
+	}
+}
+
+@media (max-width: 800px){
+	.header{
+		padding: 2rem;
+	}
+	/* about-area */
+	.about-area{
+		padding: 2rem 2rem 0rem;
+	}
+	.about-area .about-content h5{
+		font: normal 500 16px/18px var(--roboto);
+	}
+	.about-area img{
+		margin-top: 4rem;
+	}
+
+	.about-area .about-content p{
+		font-size: 15px;
+		padding-top: .2rem;
+	}
+
+	/* work-place area */
+	.work-place{
+		padding: 2rem 2rem;
+		background: #f6f6f6;
+	}
+	.work-place .card{
+		padding: 1rem 0;
+	}
+	.work-place .card h4{
+		font: normal 600 15px/18px var(--raleway);
+		text-transform: uppercase;
+		padding-bottom: .8rem;
+	}
+
+	/* bio-data */
+	.bio-data{
+		padding:2rem 1rem;
+	}
+
+	/* portfoilio area */
+	.portfolio-area{
+		padding:2rem;
+	}
+	.portfolio-area .portfolio-image img{
+		width: 100%;
+		height: 160px;
+	}
+	
+	/* testimonial-area */
+	.testimonial-area{
+		padding: 2rem 1rem;
+	}
+
+	.testimonial-area .fa{
+		font-size: 48px;
+		color: #317688;
+	}
+	.testimonial-area p{
+		padding: 2rem 2rem 2rem 0;
+	}
+
+	/* footer-area */
+	.footer-area .footer-top{
+		padding: 2rem 1rem;
+	}
+
+}
+
+@media (max-width: 560px){
+
+	.title{
+		font: normal 700 30px/32px var(--raleway);
+		padding: 1.5rem;
+	}
+	.default-box{
+		padding: 2rem 1.5rem;
+		margin-bottom: 1rem;
+	}
+	.box-title{
+		font: normal 600 20px/20px var(--raleway);
+	}
+
+	.header{
+		padding: 1rem 0rem;
+	}
+
+	.header-area .header-content .header-title{
+		font: normal 900 40px/40px var(--raleway);
+		padding: 12px;
+		border-top: 2px solid #fff;
+		border-bottom: 2px solid #fff;
+		letter-spacing: 6px;
+	}
+	.header-area .header-content .header-para{
+		color: #fff;
+		font-size: 12px;
+	}
+	/* about-area */
+	.about-area{
+		padding: 1rem;
+	}
+	.about-area .about-content h5{
+		font: normal 500 16px/18px var(--roboto);
+	}
+	.about-area img{
+		display: none;
+	}
+
+	/* work-place area */
+	.work-place{
+		padding: 0rem;
+		background: #f6f6f6;
+	}
+	.work-place .card{
+		padding: 2rem 0;
+		margin-bottom: 1rem;
+	}
+	.work-place .card h4{
+		font: normal 600 15px/18px var(--raleway);
+		text-transform: uppercase;
+		padding-bottom: .8rem;
+	}
+
+	/* bio-data */
+	.bio-data{
+		padding:1.2rem 0;
+	}
+
+	/* portfoilio area */
+	.portfolio-area{
+		padding:1rem 0;
+	}
+	.portfolio-area .portfolio-image img{
+		width: 100%;
+		height: 240px;
+		padding-top: 1rem;
+	}
+	
+	/* testimonial-area */
+	.testimonial-area{
+		padding: 2rem 1rem;
+	}
+	.testimonial-area .single{
+		padding: 1rem 0;
+	}
+
+	/* footer-area */
+	.footer-area .footer-top{
+		padding: 1rem 0;
+	}
+
+}
+
+
+
+
